@@ -31,7 +31,7 @@
     "@richardblaha/osiris-protocol": "workspace:*",
     "@richardblaha/osiris-core": "workspace:*",
     "@richardblaha/osiris-telemetry": "workspace:*",
-    "fastify": "^5.12.1",
+    "fastify": "^5.12.3",
     "git-http-backend": "^1.1.2"
   },
   "devDependencies": {
