@@ -16,13 +16,13 @@
   },
   "dependencies": {
     "@richardblaha/osiris-protocol": "workspace:*",
-    "react": "^18.3.1",
+    "react": "^19.2.8",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@richardblaha/osiris-eslint-config": "workspace:*",
     "@richardblaha/osiris-tsconfig": "workspace:*",
-    "@types/react": "^18.3.11",
+    "@types/react": "^19.2.18",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.3",
     "eslint": "^9.12.0",
