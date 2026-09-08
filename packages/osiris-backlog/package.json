@@ -28,7 +28,7 @@
     "@richardblaha/osiris-config": "workspace:*",
     "@richardblaha/osiris-protocol": "workspace:*",
     "@richardblaha/osiris-core": "workspace:*",
-    "execa": "^9.5.1"
+    "execa": "^10.0.1"
   },
   "devDependencies": {
     "@richardblaha/osiris-tsconfig": "workspace:*",
