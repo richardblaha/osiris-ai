@@ -35,7 +35,7 @@
     "clean": "rimraf dist *.tsbuildinfo"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.123.0",
+    "@anthropic-ai/sdk": "^0.124.0",
     "@richardblaha/osiris-core": "workspace:*"
   },
   "devDependencies": {
